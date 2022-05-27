@@ -1,0 +1,17 @@
+
+8
+java:S2386"Make this member "protected".(üÍ“Èûÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ü½Š©
+j
+java:S1192Ô"NDefine a constant instead of duplicating this literal "            
+" 3 times.(¿İ±Öùÿÿÿÿ
+e
+java:S1192E"JDefine a constant instead of duplicating this literal "        
+" 6 times.(¿İ±Öùÿÿÿÿ
+q
+java:S1104"VMake algorithms a static final constant or non-public and provide accessors if needed.(üÍ“Èûÿÿÿÿ
+K
+java:S1444"0Make this "public static algorithms" field final(üÍ“Èûÿÿÿÿ
+4
+java:S1700"Rename field "algorithms"(üÍ“Èûÿÿÿÿ
